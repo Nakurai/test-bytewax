@@ -1,0 +1,13 @@
+atomicwrites==1.4.0
+attrs==21.4.0
+bytewax==0.8.0
+colorama==0.4.4
+dill==0.3.4
+iniconfig==1.1.1
+multiprocess==0.70.12.2
+packaging==21.3
+pluggy==1.0.0
+py==1.11.0
+pyparsing==3.0.8
+pytest==7.1.1
+tomli==2.0.1
